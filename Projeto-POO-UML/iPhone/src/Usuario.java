@@ -3,6 +3,7 @@ public class Usuario {
         iPhone aparelhoUsuario = new iPhone();
 
         System.out.println("O Usuário usa funções no Phone:");
+        aparelhoUsuario.teclado();
         aparelhoUsuario.ligar();
         aparelhoUsuario.atender();
         aparelhoUsuario.iniciarCorrerioVoz();

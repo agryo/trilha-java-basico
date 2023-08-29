@@ -38,4 +38,8 @@ public class iPhone implements Safari, Phone, iTunes{
     public void atualizarPagina() {
         System.out.println("A página da Web foi atualizada!");
     }
+
+    public void teclado() {
+        System.out.println("O usuário está digitando o número...");
+    }
 }

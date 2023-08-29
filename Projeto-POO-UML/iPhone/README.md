@@ -3,6 +3,7 @@ www.dio.me
 
 ## Aluno
 - [Agryo Araujo](https://www.linkedin.com/in/agryo/)
+- [Agryo GitHub](https://github.com/agryo)
 
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
