@@ -3,6 +3,12 @@ import Player.iTunes;
 import Telefone.Phone;
 
 public class iPhone implements Safari, Phone, iTunes{
+    private String nome = "Agryo";
+    private int numero = 99997585;
+
+    public String getNome() { return this.nome; }
+    public int getNumero() { return this.numero; }
+
     public void tocar() {
         System.out.println("Tocando música...");
     }

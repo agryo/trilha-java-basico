@@ -5,6 +5,8 @@ www.dio.me
 - [Agryo Araujo](https://www.linkedin.com/in/agryo/)
 - [Agryo GitHub](https://github.com/agryo)
 
+![UML do Projeto](./src/assets/uml.jpg)
+
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
 
